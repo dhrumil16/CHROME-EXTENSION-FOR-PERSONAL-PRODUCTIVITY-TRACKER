@@ -16,6 +16,7 @@ The Auto Productivity Tracker is a lightweight and effective Chrome extension th
 Built using vanilla JavaScript, HTML, and CSS, this extension offers real-time tracking of website activity, a clean and responsive user interface, and a customizable user experience. With no external libraries or frameworks, it’s fast, efficient, and easy to use on any Chrome browser.
 
 ✨ Key Features
+
 ⏳ Real-Time Website Time Tracking
 As soon as a user starts browsing, the extension begins recording time spent on active tabs. It identifies each domain and maintains a running timer. This enables users to be fully aware of how much time they’re spending on each site throughout the day.
 
@@ -41,11 +42,13 @@ When a user exceeds the daily time limit, the extension displays a Chrome notifi
 The interface is designed with smooth gradients, glowing buttons, and a modern layout. Whether on a desktop or laptop, the responsive design ensures clarity and usability.
 
 ⚙️ How It Works
+
 When a user installs the extension, it automatically begins monitoring active tab URLs using Chrome's tabs and alarms APIs. It identifies the domain name and stores the duration spent on it. If the user sets a goal for a particular site, the timer compares usage with the threshold and takes action (notify or block) accordingly.
 
 The background script keeps time tracking active, while the popup script allows users to set preferences, view reports, and manage limits. All state is preserved using chrome.storage, making the data persistent across sessions.
 
 🛠️ Tech Stack
+
 JavaScript (Vanilla) – Business logic and interactivity
 
 HTML & CSS – Responsive UI and custom design
@@ -55,5 +58,6 @@ Chrome Extension APIs – Tabs, Storage, Alarms, Notifications
 No Frameworks – Lightweight and fast performance
 
 📸 Screenshots
+
 📊 Productivity Tracker Interface
 
