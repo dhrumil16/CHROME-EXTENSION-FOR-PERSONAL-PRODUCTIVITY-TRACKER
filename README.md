@@ -10,7 +10,7 @@
  
  **MENTOR**: NEELA SANTOSH
  
-##🧠 Auto Productivity Tracker – Chrome Extension##
+##🧠 Auto Productivity Tracker – Chrome Extension
 
 The Auto Productivity Tracker is a lightweight and effective Chrome extension that helps users monitor how much time they spend on different websites, set daily usage goals, and block distracting websites once their time limit is exceeded. This tool is perfect for students, professionals, and productivity-conscious individuals looking to take control of their browsing habits and improve focus.
 
