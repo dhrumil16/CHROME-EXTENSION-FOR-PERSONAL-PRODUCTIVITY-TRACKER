@@ -72,3 +72,17 @@ No Frameworks – Lightweight and fast performance
 📱 Unproductivity Sites
 ![Image](https://github.com/user-attachments/assets/bb1dfd47-5ab8-4b48-9234-fff51b72cd63)
 
+### 📸 Screenshots
+- **📊 Productivity Tracker Interface**  
+   *Include an image showcasing the user interface with time tracking and goals set for productive websites.*
+
+- **⛔ Website Blocked Alert**  
+   *Include an image showing the alert for a blocked website after the time limit is exceeded.*
+
+- **💻 Productivity Sites**  
+   *Include a screenshot showing time tracking and goals set for productive websites (e.g., educational sites, work-related platforms).*
+
+- **📱 Unproductivity Sites**  
+   *Include a screenshot showing time tracking for websites that are typically distracting (e.g., social media, entertainment platforms).*
+
+
