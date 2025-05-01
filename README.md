@@ -61,28 +61,21 @@ Users can set custom time limits for specific websites (e.g., 20 minutes for You
 ### 📸 Screenshots
 
 **📊 Productivity Tracker Interface**
+
 ![Image](https://github.com/user-attachments/assets/d5f15328-1185-48e3-81eb-6c0b57318958)
 
 **🌐 All Web Activities**
+
 ![Image](https://github.com/user-attachments/assets/e700e320-517f-4377-b390-0d60b280d90d)
 
 **💻 Productivity Sites**
+
 ![Image](https://github.com/user-attachments/assets/f57999cf-8585-4f9b-b0bc-b7a413b590dd)
 
 **📱 Unproductivity Sites**
+
 ![Image](https://github.com/user-attachments/assets/bb1dfd47-5ab8-4b48-9234-fff51b72cd63)
 
-### 📸 Screenshots
-- **📊 Productivity Tracker Interface**  
-   *Include an image showcasing the user interface with time tracking and goals set for productive websites.*
 
-- **⛔ Website Blocked Alert**  
-   *Include an image showing the alert for a blocked website after the time limit is exceeded.*
-
-- **💻 Productivity Sites**  
-   *Include a screenshot showing time tracking and goals set for productive websites (e.g., educational sites, work-related platforms).*
-
-- **📱 Unproductivity Sites**  
-   *Include a screenshot showing time tracking for websites that are typically distracting (e.g., social media, entertainment platforms).*
 
 
