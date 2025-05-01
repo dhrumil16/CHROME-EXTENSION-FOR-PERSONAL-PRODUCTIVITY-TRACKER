@@ -60,4 +60,14 @@ No Frameworks – Lightweight and fast performance
 📸 Screenshots
 
 📊 Productivity Tracker Interface
+![Image](https://github.com/user-attachments/assets/d5f15328-1185-48e3-81eb-6c0b57318958)
+
+🌐 All Web Activities
+![Image](https://github.com/user-attachments/assets/e700e320-517f-4377-b390-0d60b280d90d)
+
+💻 Productivity Sites
+![Image](https://github.com/user-attachments/assets/f57999cf-8585-4f9b-b0bc-b7a413b590dd)
+
+📱 Unproductivity Sites
+![Image](https://github.com/user-attachments/assets/bb1dfd47-5ab8-4b48-9234-fff51b72cd63)
 
